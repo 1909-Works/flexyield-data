@@ -1,19 +1,19 @@
 week,chain,name,supply,probes,uptime,p50_ms,p95_ms,weakest_day
-2026-W42,arbitrum_one,Arbitrum One,all,728,1.0,58,177,2026-10-12
-2026-W42,base_mainnet,Base Mainnet,all,751,1.0,84,183,2026-10-12
-2026-W42,eth_mainnet,Ethereum Mainnet,all,751,1.0,72,171,2026-10-12
-2026-W42,optimism_mainnet,OP Mainnet,all,728,1.0,69,159,2026-10-12
-2026-W42,polygon_pos,Polygon PoS,all,546,1.0,63,159,2026-10-12
-2026-W42,solana_mainnet,Solana Mainnet,all,546,1.0,59,377,2026-10-12
-2026-W42,arbitrum_one,Arbitrum One,contracted,273,1.0,50,,
-2026-W42,arbitrum_one,Arbitrum One,public pool,455,1.0,76,,
-2026-W42,base_mainnet,Base Mainnet,contracted,273,1.0,55,,
-2026-W42,base_mainnet,Base Mainnet,public pool,478,0.98954,90,,
-2026-W42,eth_mainnet,Ethereum Mainnet,contracted,273,1.0,54,,
-2026-W42,eth_mainnet,Ethereum Mainnet,public pool,478,0.95816,76,,
-2026-W42,optimism_mainnet,OP Mainnet,contracted,273,1.0,52,,
-2026-W42,optimism_mainnet,OP Mainnet,public pool,455,1.0,73,,
-2026-W42,polygon_pos,Polygon PoS,contracted,273,1.0,54,,
-2026-W42,polygon_pos,Polygon PoS,public pool,273,1.0,64,,
-2026-W42,solana_mainnet,Solana Mainnet,contracted,273,1.0,54,,
-2026-W42,solana_mainnet,Solana Mainnet,public pool,273,0.98901,78,,
+2026-W42,arbitrum_one,Arbitrum One,all,16128,1.0,61,197,2026-10-14
+2026-W42,base_mainnet,Base Mainnet,all,16632,1.0,85,177,2026-10-14
+2026-W42,eth_mainnet,Ethereum Mainnet,all,16632,1.0,72,172,2026-10-16
+2026-W42,optimism_mainnet,OP Mainnet,all,16128,1.0,71,166,2026-10-13
+2026-W42,polygon_pos,Polygon PoS,all,12096,1.0,66,166,2026-10-17
+2026-W42,solana_mainnet,Solana Mainnet,all,12096,1.0,59,364,2026-10-18
+2026-W42,arbitrum_one,Arbitrum One,contracted,6048,1.0,50,,
+2026-W42,arbitrum_one,Arbitrum One,public pool,10080,0.99752,83,,
+2026-W42,base_mainnet,Base Mainnet,contracted,6048,1.0,58,,
+2026-W42,base_mainnet,Base Mainnet,public pool,10584,0.98885,94,,
+2026-W42,eth_mainnet,Ethereum Mainnet,contracted,6048,1.0,56,,
+2026-W42,eth_mainnet,Ethereum Mainnet,public pool,10584,0.95569,75,,
+2026-W42,optimism_mainnet,OP Mainnet,contracted,6048,1.0,58,,
+2026-W42,optimism_mainnet,OP Mainnet,public pool,10080,0.9997,73,,
+2026-W42,polygon_pos,Polygon PoS,contracted,6048,1.0,58,,
+2026-W42,polygon_pos,Polygon PoS,public pool,6048,0.99967,67,,
+2026-W42,solana_mainnet,Solana Mainnet,contracted,6048,0.99983,54,,
+2026-W42,solana_mainnet,Solana Mainnet,public pool,6048,0.99785,81,,
