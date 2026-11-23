@@ -1,0 +1,19 @@
+week,chain,name,supply,probes,uptime,p50_ms,p95_ms,weakest_day
+2026-W48,arbitrum_one,Arbitrum One,all,728,1.0,52,164,2026-11-23
+2026-W48,base_mainnet,Base Mainnet,all,751,1.0,74,158,2026-11-23
+2026-W48,eth_mainnet,Ethereum Mainnet,all,751,1.0,64,157,2026-11-23
+2026-W48,optimism_mainnet,OP Mainnet,all,728,1.0,59,153,2026-11-23
+2026-W48,polygon_pos,Polygon PoS,all,546,1.0,52,141,2026-11-23
+2026-W48,solana_mainnet,Solana Mainnet,all,546,1.0,52,734,2026-11-23
+2026-W48,arbitrum_one,Arbitrum One,contracted,273,1.0,46,,
+2026-W48,arbitrum_one,Arbitrum One,public pool,455,1.0,68,,
+2026-W48,base_mainnet,Base Mainnet,contracted,273,1.0,54,,
+2026-W48,base_mainnet,Base Mainnet,public pool,478,0.98117,81,,
+2026-W48,eth_mainnet,Ethereum Mainnet,contracted,273,1.0,51,,
+2026-W48,eth_mainnet,Ethereum Mainnet,public pool,478,0.95397,67,,
+2026-W48,optimism_mainnet,OP Mainnet,contracted,273,1.0,50,,
+2026-W48,optimism_mainnet,OP Mainnet,public pool,455,1.0,60,,
+2026-W48,polygon_pos,Polygon PoS,contracted,273,1.0,53,,
+2026-W48,polygon_pos,Polygon PoS,public pool,273,1.0,52,,
+2026-W48,solana_mainnet,Solana Mainnet,contracted,273,1.0,48,,
+2026-W48,solana_mainnet,Solana Mainnet,public pool,273,0.99267,63,,

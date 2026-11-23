@@ -6,6 +6,7 @@ Licence: CC BY 4.0 (see LICENSE). Cite as: FlexYield public-pool reliability dat
 
 | Week | CSV | JSON | Report |
 |---|---|---|---|
+| 2026-W48 | [csv](weekly/2026-W48.csv) | [json](weekly/2026-W48.json) | https://flexyield.io/reliability/2026-W48 |
 | 2026-W47 | [csv](weekly/2026-W47.csv) | [json](weekly/2026-W47.json) | https://flexyield.io/reliability/2026-W47 |
 | 2026-W46 | [csv](weekly/2026-W46.csv) | [json](weekly/2026-W46.json) | https://flexyield.io/reliability/2026-W46 |
 | 2026-W45 | [csv](weekly/2026-W45.csv) | [json](weekly/2026-W45.json) | https://flexyield.io/reliability/2026-W45 |
